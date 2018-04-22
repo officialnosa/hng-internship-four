@@ -1,2 +1,2 @@
 # hng-internship-four
-Submission for HNG internship 4, stage 
+Submission for HNG internship 4
